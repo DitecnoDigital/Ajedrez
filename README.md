@@ -8,7 +8,7 @@ Tutorial sobre como realizar el Ajedrez en lenguaje C++ donde puedes ver el paso
 ### ⭐️Youtube:
 
  #### 🕹 Ajedrez
- [![](https://img.shields.io/badge/YouTube-2048-red)](https://www.youtube.com/watch?v=IOwyTympIvU)
+ [![](https://img.shields.io/badge/YouTube-Ajedrez-red)](https://www.youtube.com/watch?v=U2Hnl-RKpak)
 
 
  
