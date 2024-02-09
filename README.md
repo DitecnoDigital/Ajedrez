@@ -3,7 +3,7 @@
 ![This is me](https://github.com/DitecnoDigital/Ajedrez/blob/main/PortadaAjedrez.png)
 
 # Ajedrez
-Tutorial sobre como realizar  juego "2048" en lenguaje C++ donde puedes ver el paso a paso en:
+Tutorial sobre como realizar el Ajedrez en lenguaje C++ donde puedes ver el paso a paso en:
 
 ### ⭐️Youtube:
 
